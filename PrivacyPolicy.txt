@@ -1,110 +1,205 @@
-THREAD, INC.  PRIVACY POLICY
-============================
+THREAD, INC. MOBILE APPLICATION PRIVACY POLICY
+Last modified:  September 5, 2019
 
-Thread, Inc. (“Thread”) is committed to respecting your privacy. Please read the following policy to understand how your personal information will be treated. This policy may change from time to time so please check back periodically. This policy will let you know the following:
 
+Thread, Inc., together with its affiliates, subsidiaries, and related entities (“Thread”, “we”, “us”, or “our”) are committed to respecting your privacy through our compliance with this Privacy Policy.  
+
+* Our Privacy Policy describes the categories of personal information that you may provide when you download, install, register with, access, or use the Thread mobile application (the “App”), or that may be collected through the App by Thread or on our behalf.   
+
+* Our Privacy Policy also explains how we and some of the companies we work with use, share, and protect your personal information in relation to the App, and your choices about the collection and use of such information.  
+
+
+This Privacy Policy applies to all users who access the App (“Users”), but it only governs personal information that is collected in this App and in any text or other electronic communications sent through this App.  It does not apply to personal information that we collect offline or on any other Thread websites, including websites you may access through this App, or that you provide to or is collected by any third party outside of this App.  Our websites and these other third parties have their own privacy policies, which we encourage you to read before providing your information on or through them.
+
+
+This Privacy Policy is incorporated into and subject to the Terms of Use (“Terms”), available at Thread.org/privacy-policy/.  This Privacy Policy may also change from time to time.  Your continued use of this App after we revise this policy means you accept those changes, so please check the policy periodically for updates.  
+
+
+Our App is not intended for children under thirteen (13) years of age, and we do not knowingly collect personal information from children under thirteen (13).  If we learn we have collected or received personal information from a child under thirteen (13) without verification of parental consent, we will delete that information.  If you believe we might have any information from or about a child under thirteen (13), please contact us at support@thread.org.   
+
+
+*        *        *
+
+
+1.        What personal information is collected from you?
+
+
+The App collects the following categories of personal information from you.
+
+
+Information You Provide to the App
+We receive any personal information you enter on or provide through the App, including:
+
+
+* Your username, password, and e-mail address when you are assigned a Thread account.
+
+
+* Profile information that you provide for your user profile (e.g., first and last name, picture, phone number).  
+
+
+* Personal information you provide through the App. This may include your personal or professional interests, demographics, or education information. 
+
+
+* Any content, including but not limited to photos, comments, feedback, survey answers, TouchPoint details, and other materials, that you may provide through the App (“User Content”).  
+
+
+Automatic Information Collection 
+
+
+When you download, access, and use the App, it may use technology to automatically collect:
+
+
+* Usage Details.  When you access and use the App, it may automatically collect certain details of your access to and use of the App, including traffic data, location data, logs, and other communication data and the resources that you access and use on or through the App.
+
+
+* Device Information.  We may collect information about your mobile device and internet connection, including the device's unique device identifier, IP address, operating system, mobile network information, and the device's telephone number.
+
+
+* Location Information.  This App collects real-time information about the location of your device to support Thread events and for other purposes, but only if you have this functionality turned on.  This functionality will not collect your coordinate location data.    
+
+
+If you do not want the App to collect this information, do not download the App or delete it from your device.
+
+
+Third-Party Information Collection
+
+
+When you use the App or its content, certain third parties may use automatic information collection technologies to collect information about you or your device.  These third parties may include:
+
+
+* Google Firebase Analytics and Crashlytics
+
+
+* Your mobile device manufacturer.
+
+
+* Your mobile service provider.
+
+
+* Service providers or other business partners we use to provide additional functionalities through the App or to otherwise support our business.
+
+
+2.        How is your personal information used?
+
+
+We want to help you quickly find information on Thread and alert you to specific opportunities, updated information, and services from Thread.  We use personal information that we collect about you or that you provide to us to:
+
+
+* Provide you with the App and its contents, and any other information, products, or services that you request from us.
+
+
+* Support your relationship with Thread.
+
+
+* Fulfill any other purpose for which you provide it.
+
+
+* Notify you when App updates are available, and of changes to any products or services we offer or provide though it.
+
+
+The usage information we collect helps us to improve our App and to deliver a better and more personalized experience by enabling us to:
+
+
+* Estimate our audience size and usage patterns.
+
+
+* Store information about your preferences, allowing us to customize our App according to your individual interests.
+
+
+* Recognize you when you use the App.
+
+
+We use location information collected through the App to support Thread events, collect TouchPoint information, and for other purposes, but only if you have this functionality turned on.
+
+
+We may also do research on our users’ demographics, interests, and behavior based on the information provided to us during your use of the App.  This research is compiled and analyzed on an aggregated basis.  
+
+
+Your personal information may be shared with our agents, contractors, or business partners for the purpose of performing services for Thread, and only in a deidentified or aggregate format with unaffiliated or non-agent third parties for advertising and marketing purposes.  If you agree, we may send you direct mailings or contact you by telephone about our various services or other opportunities for collaboration we feel may be of interest to you.  If you want to receive such mailings, simply “opt-in” by contacting support@thread.org.
+
+
+3.        Who is collecting your information?
+
+
+Unless specifically stated otherwise, when you are on the App and provide personal information, you are sharing that information with Thread and our subsidiary, Thrive Software, Inc. (“Thrive”).  
+
+
+4.         With whom do we share your personal information?
+
+
+We may share aggregated information about our users, and information that does not identify any individual or device, without restriction.  We will only share deidentified data with third parties, and we will not share information that identifies any device with third parties in a manner that is inconsistent with our own policies and procedures.  
+
+
+In addition, we may also share the personal data that we collect or you provide:
+
+
+* To our subsidiaries and affiliates. 
+
+
+* To other Thread users or our service or business partners we use to provide additional functionalities through our App or to otherwise support our business. 
+
+
+* To fulfill the purpose for which you provide it.  For example, if you give us an email address to use the "email a friend" feature of our App, we will transmit the contents of that email and your email address to the recipients.
+
+
+* For any other purpose disclosed by us when you provide the information.
+
+
+* With your consent.
+
+
+* To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets.
+
+
+* To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
+
+
+* To investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of Thread, our Users, or any person, violations of the Terms, or as otherwise required by law. 
+
+
+5.         How do you access, update, or delete my personal information?
+
+
+You may review and change your personal information by logging into the App and visiting your account profile page.
+
+
+You may also request the individual personal information that has been collected about you by Thread or on its behalf, correct factual inaccuracies in your personal information, remove personal information from Thread and/or Thrive’s databases and/or update your personal information at 410-660-8343 or by contacting support@thread.org.
  
-1.         What personally identifiable information is collected from me?
+6.        How do we store your data?
 
-2.         What are cookies and how they are used by Thread?
 
-3.         How is my information used?
+We and Thrive may retain information collected from you for any period permitted or required under applicable laws, whether in deidentified format or not.  Even if we or Thrive delete your information, it may persist on backup or archival media for an additional period of time due to technical issues or for legal or regulatory reasons or for legitimate and lawful business purposes.
 
-4.         Who is collecting my information?
 
-5.         With whom will my information be shared?
+We and Thrive have implemented reasonable measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure.  The safety and security of your information also depends on you.  Where we have given you (or where you have chosen) a password for access to certain parts of our App, you are responsible for keeping this password confidential.  We ask you not to share your password with anyone.  Unfortunately, the transmission of information via the internet and mobile platforms is not completely secure.  Although we and Thrive will do our best to protect your personal information, we and Thrive cannot guarantee the security of your personal information transmitted through our App.  Any transmission of personal information is at your own risk.  We are not responsible for circumvention of any privacy settings or security measures we provide.
 
-6.         How can I access, update or delete my information?
 
-7.         What does “opt-in” mean?
+7.       What Are My Choices About Your Collection, Use, and Disclosure of My 
+Information?
 
-8.         What else should I know about my privacy?
 
-9.         Other legal notices.
+We strive to provide you with choices regarding the personal information you provide to us.  This section describes mechanisms we provide for you to control certain uses and disclosures of over your information.
 
- 
-1.         What personally identifiable information is collected from me?
 
- 
+* Opting In.  To “opt-in” means that you have notified Thread that we have permission to use your information for a particular enumerated purpose(s).  Of course, when we send you information on an opportunity or service for which you have “opted-in,” you will be given the opportunity to “opt-out” of receiving such information in the future. 
 
-On some Thread Web pages you can make requests and/or receive materials. The types of personal information collected at these pages are your name, e-mail address, and standard contact information, including addresses and phone numbers.
 
-We may also ask you to voluntarily provide us with information regarding your personal or professional interests, demographics, experience with the services we provide, and/or contact preferences. Wherever Thread collects personal information, we make an effort to include a link to this Privacy Policy on that page.
+* Disclosure of Your Information for Third-Party Advertising and Marketing.  We will NOT share information with unaffiliated or non-agent third parties for advertising and marketing purposes.  
 
- 
 
-2.         What are cookies and how are they used by Thread?
+8.         What else should you know about your privacy?
 
- 
 
-Thread may place Internet cookies on your hard drive. Internet cookies are small files that may be placed on your hard disk for recordkeeping purposes. Cookies are used to (a) remind us of who you are in order to deliver you better service; (b) estimate our audience size by determining repeat usage of the Web site to help target our services based on user interests and behavior; (c) track your progress and entries in promotions, sweepstakes, and contests, if any; and (d) measure certain traffic patterns for use as a research tool to understand how our users’ habits are similar or different from one another. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. If you do not accept cookies, some Web pages may not display properly or you may not be permitted to access certain information.
+Third-party Internet sites and services accessible through Thread have separate privacy and data-collection practices, independent of us.  Thread has no responsibility or liability for these independent policies or actions.  Please be careful and responsible online.  
 
- 
 
-Thread may also collect IP addresses (the Internet address of a computer) to track a user’s session while the user remains anonymous. We analyze this data for certain trends in statistics, such as which parts of our site users are visiting, and how much time they spend there. In general, we do not link your IP addresses to anything personally identifiable to you.
+If you post User Content or any personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.  While we strive to protect your information, Thread cannot ensure or warrant the security of any information through the transmission process and you do so at your own risk.  Additionally, we cannot control the actions of third parties with whom you may choose to share your User Content.  Therefore, we cannot and do not guarantee that your User Content will not be viewed by unauthorized persons.
 
- 
 
-3.         How is my information used?
+9.         Other Legal Notices.
 
- 
 
-Thread will not sell, rent, or lease your personally identifiable information to others without your consent. The information you provide will be used to support your relationship with Thread. Your information may be shared with Thread’s agents, contractors, or business partners for the purpose of performing services for Thread.
+Any dispute over privacy is subject to this privacy policy and our Terms, including limitations on damages and application of the law of the State of Maryland.  If you have any concern about your privacy in connection with this policy, please send us a thorough description to support@thread.org, and we will try to resolve it.  We may post a revised privacy policy on our site.  Please note that the use of information that we gather is subject to the privacy notice in effect at the time of use. 
 
- 
 
-We want to help you quickly find information on Thread and alert you to specific opportunities, updated information, and services from Thread. Accordingly, we, if you agree, may send you direct mailings or contact you by telephone about our various services or other opportunities for collaboration we feel may be of interest to you. If you want to receive such mailings, simply “opt-in” by contacting info@thread.org.
-
- 
-
-Notwithstanding, Thread does research on our users’ demographics, interests, and behavior based on the information provided to us during your use of the Thread Web site. This research is compiled and analyzed on an aggregated basis. Aggregated data does not include personally identifiable information. Thread may share this aggregated data with others.
-
- 
-
-4.         Who is collecting my information?
-
- 
-
-When you are on a Thread site and are asked for personal information, you are sharing that information with Thread alone, unless specifically stated otherwise. If data is being collected and/or maintained by any company other than Thread or an agent for Thread, you will be notified prior to the time of the data collection or transfer. If you want your data to be shared, you can choose to allow the transfer by “opting-in” to use that particular service or purchase those particular goods.
-
- 
-
-Please be aware that Thread advertisers or Web sites that have links on our site may collect personally identifiable information about you. The information practices of those Web sites linked to Thread either through advertisements or other hyperlinks are not covered by this privacy statement.
-
- 
-
-5.         With whom does Thread share my information?
-
- 
-
-We may share the personal data you provide with other Thread agents, contractors, or our business partners for the purposes of performing services for Thread. Thread also may share aggregated data with others. Aggregated data does not include personally identifiable information. We also believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Terms and Conditions, or as otherwise required by law. Except as provided above or in the event of a merger, consolidation, or sale of all or substantially all of Thread’s assets, we will not share any of your information with any third party without your permission.
-
- 
-
-6.         How do I access, update, or delete my information?
-
- 
-
-You can request the individual information that Thread has collected about you, correct factual inaccuracies in your information, remove personal information from Thread’s databases and/or update your personal information at 410-660-8343 or by contacting info@Thread.org.
-
- 
-
-7.         What does “opt-in” mean?
-
- 
-
-To “opt-in” means that you have notified Thread that we have permission to use your information for a particular enumerated purpose(s). Of course, when we send you information on an opportunity or service for which you have “opted-in,” you will be given the opportunity to “opt-out” of receiving such information in the future.
-
- 
-
-8.         What else should I know about my privacy?
-
- 
-
-Third-party Internet sites and services accessible through Thread have separate privacy and data-collection practices, independent of us. Thread has no responsibility or liability for these independent policies or actions. Please be careful and responsible online. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. While we strive to protect your information, Thread cannot ensure or warrant the security of any information through the transmission process and you do so at your own risk.
-
- 
-
-            9.         Other Legal Notices.
-
-            Any dispute over privacy is subject to this privacy policy and our Terms and Conditions, including limitations on damages and application of the law of the State of Maryland. If you have any concern about your privacy in connection with this policy, please send us a thorough description to info@thread.org, and we will try to resolve it. We may post a revised privacy policy on our site. Please note that the use of information that we gather is subject to the privacy notice in effect at the time of use. You should check our Web site frequently to see recent changes.
+* * * * *
